@@ -2,13 +2,18 @@
 ## Front End Developer & Web Designer
 
 💪 Here on my GitHub you will find some of the coding challenge I do
+
 👨‍💻 I'm currently trying to master React.js as best as possible
+
 🤓 I'm also currently studying Wordpress FSE and Wordpress Rest API Development
 
 ## About Me
 🌍 Italian Guy based in Frosinone and Rome
+
 ✉️ You can contact me on [federicograziani97@gmail.com](mailto:federicograziani97@gmail.com)
+
 🔗 I'd like to be helpful on Frontend Projects so if you want collaborate or learn new things with me, just contact me! 😁
+
 👦 Other facts: Philosophy Degree | Guitarist | Post Punk Lover | Worked as Graphic Designer | Grunge Design Lover
 
 ## Where you can find me
