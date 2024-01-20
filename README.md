@@ -1,4 +1,4 @@
-# Hi there 👋 i'm Federico also known ad herecomesfed
+# Hi there 👋 i'm Federico
 ## Front End Developer & Web Designer
 
 💪 Here on my GitHub you will find some of the coding challenge I do
