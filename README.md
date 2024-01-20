@@ -12,7 +12,7 @@
 
 ✉️ You can contact me on [federicograziani97@gmail.com](mailto:federicograziani97@gmail.com)
 
-🔗 I'd like to be helpful on Frontend Projects so if you want collaborate or learn new things with me, just contact me! 😁
+🤝 I'd like to be helpful on Frontend Projects so if you want collaborate or learn new things with me, just contact me! 😁
 
 👦 Other facts: Philosophy Degree | Guitarist | Post Punk Lover | Worked as Graphic Designer | Grunge Design Lover
 
